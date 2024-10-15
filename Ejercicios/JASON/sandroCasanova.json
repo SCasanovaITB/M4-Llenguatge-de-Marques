@@ -1,0 +1,22 @@
+{
+    "football_team": {
+        "name": "Liverpool F.C.",
+        "players": {
+            "player": [
+                {
+                    "position": "goalkeeper",
+                    "name": "Alisson Becker",
+                    "nationality": "Brazilian"
+                },
+                {
+                    "position": "forward",
+                    "name": "Mohamed Salah",
+                    "number": "11"
+                }
+            ]
+        },
+        "coach": "Jürgen Klopp",
+        "city": "Liverpool",
+        "//beautiful city":"Beautiful City"
+    }
+}

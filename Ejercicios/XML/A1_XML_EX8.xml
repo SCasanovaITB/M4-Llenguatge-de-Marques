@@ -1,0 +1,51 @@
+<correcion>
+    <alumno>
+        <nombre>Juan</nombre>
+        <apellido>García</apellido>
+        <nacimiento>
+            <dia>23</dia>
+            <mes>Febrero</mes>
+            <año>2001</año>
+            <ciudad>Barcelona</ciudad>
+        </nacimiento>
+    </alumno>
+
+    <Establecimientos>
+        <Bar_1 tipo="tapas">
+            <nombre>Bar Pasqual</nombre>
+            <calle>AV. Diagonal 232</calle>
+            <dueño>Joan Alcover</dueño>
+        </Bar_1>
+        <Bar_2 tipo="menu">
+            <nombre>Restaurante Meravelles</nombre>
+            <calle>Meridiana 111</calle>
+            <dueño>Maria Garcia</dueño>
+        </Bar_2>
+        <Bar_3 tipo="menu">
+            <nombre>Racó de l'Avia</nombre>
+            <calle>AV. Roma 221</calle>
+            <dueño>Alba Puig</dueño>
+        </Bar_3>
+    </Establecimientos>
+
+    <museo>
+        <obra_de_arte1 tipo="cuadro abstracto">
+            <nombre>Azul sobre blanco</nombre>
+            <autor>Pere Àguila</autor>
+            <fecha>2014</fecha>
+            <tecnica>óleo</tecnica>
+        </obra_de_arte1>
+        <obra_de_arte2 tipo="cuadro abstracto">
+            <nombre>Gris Oscuro</nombre>
+            <autor>Pere Àguila</autor>
+            <fecha>2010</fecha>
+            <tecnica>acuarela</tecnica>
+        </obra_de_arte2>
+        <obra_de_arte3 tipo="escultura">
+            <nombre>Camino Largo</nombre>
+            <autor>Marta Lambert</autor>
+            <fecha>1981</fecha>
+            <material>marmol</material>
+        </obra_de_arte3>
+    </museo>
+</correcion>

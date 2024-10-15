@@ -1,0 +1,59 @@
+{"ej1": [
+    {
+        "alumno": {
+        "nombre": "Juan Garcia",
+        "fecha_nacimiento": "2001-02-23",
+        "ciudad_nacimiento": "Barcelona"
+        }
+    },
+
+    {
+        "establecimientos": [
+        {
+            "nombre": "Bar Pasqual", 
+            "tipo": "tapas",
+            "ubicacion":"Av Diagonal 232",
+            "dueño": "Joan Alcover"
+        },
+        {
+            "nombre": "Meravelles", 
+            "tipo": "menú",
+            "ubicacion":"Meridiana 111",
+            "dueño": "Maria Garcia"
+        },
+        {
+            "nombre": "Racó de l'Avia", 
+            "tipo": "menú",
+            "ubicacion":"Av Roma 221",
+            "dueño": "Alba Puig"
+        }
+    ]
+    },
+
+    {
+        
+        "museo": [
+        {
+            "tipo":"cuadro abstracto",
+            "nombre":"Gris Oscuro",
+            "autor":"Pere Àguila",
+            "fecha":"2010",
+            "tecnica": "óleo"
+        },
+        {
+            "tipo":"cuadro abstracto",
+            "nombre":"Azul sobre blanco",
+            "autor":"Pere Àguila",
+            "fecha":"2014",
+            "tecnica": "acuarela"
+        },
+        {
+            "tipo":"escultura",
+            "nombre":"Camino Largo",
+            "autor":"Marta Lambert",
+            "fecha":"1981",
+            "tecnica": "mármol"
+        }
+    ]
+    }
+]}

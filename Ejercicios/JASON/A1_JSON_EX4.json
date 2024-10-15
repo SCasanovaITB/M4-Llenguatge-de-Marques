@@ -1,0 +1,93 @@
+{
+    "recetario": {
+      "recetas": [
+        {
+          "tipo": "postre",
+          "nombre": "Tarta de Queso",
+          "ingredientes": [
+            {
+              "nombre": "Queso crema",
+              "detalle": {
+                "cantidad": "500g",
+                "tipo": "Lácteo"
+              }
+            },
+            {
+              "nombre": "Galletas",
+              "detalle": {
+                "cantidad": "200g",
+                "tipo": "Cereal"
+              }
+            },
+            {
+              "nombre": "Mantequilla",
+              "detalle": {
+                "cantidad": "100g",
+                "tipo": "Grasa"
+              }
+            }
+          ],
+          "preparacion": [
+            {
+              "paso": 1,
+              "descripcion": "Tritura las galletas y mezcla con la mantequilla derretida.",
+              "tiempo": {
+                "minutos": 10
+              }
+            },
+            {
+              "paso": 2,
+              "descripcion": "Coloca la mezcla en el fondo del molde y presiona para formar la base.",
+              "tiempo": {
+                "minutos": 5
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "principal",
+          "nombre": "Paella de Mariscos",
+          "ingredientes": [
+            {
+              "nombre": "Arroz",
+              "detalle": {
+                "cantidad": "400g",
+                "tipo": "Cereal"
+              }
+            },
+            {
+              "nombre": "Mejillones",
+              "detalle": {
+                "cantidad": "200g",
+                "tipo": "Marisco"
+              }
+            },
+            {
+              "nombre": "Gambas",
+              "detalle": {
+                "cantidad": "200g",
+                "tipo": "Marisco"
+              }
+            }
+          ],
+          "preparacion": [
+            {
+              "paso": 1,
+              "descripcion": "Sofríe el ajo y el pimiento rojo picados en una paellera.",
+              "tiempo": {
+                "minutos": 5
+              }
+            },
+            {
+              "paso": 2,
+              "descripcion": "Añade el tomate triturado y cocina hasta que reduzca.",
+              "tiempo": {
+                "minutos": 10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matricula
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="A2_XSD_EX7.xsd">
+    <ciclo>2012-2013</ciclo>
+    <alumnos>
+        <alumno>
+            <nombre>Narcis</nombre>
+            <year>2024</year>
+            <asignaturas>
+                <asignatura>Matemáticas</asignatura>
+                <asignatura>Física</asignatura>
+                <asignatura>Química</asignatura>
+            </asignaturas>
+        </alumno>
+        <alumno>
+            <nombre>Roma</nombre>
+            <year>2023</year>
+            <asignaturas>
+                <asignatura>Matemáticas</asignatura>
+                <asignatura>Física</asignatura>                
+            </asignaturas>
+        </alumno>
+        <alumno>
+            <nombre>Pol</nombre>
+            <year>2024</year>
+            <asignaturas>
+                <asignatura>Matemáticas</asignatura>
+                <asignatura>Física</asignatura>
+                <asignatura>Química</asignatura>
+            </asignaturas>
+        </alumno>
+    </alumnos>    
+</matricula>

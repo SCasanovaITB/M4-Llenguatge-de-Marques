@@ -1,0 +1,83 @@
+<recetario>
+    <receta tipo="postre">
+        <nombre>Tarta de Queso</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombre>Queso crema</nombre>
+                <detalle>
+                    <cantidad>500g</cantidad>
+                    <tipo>Lácteo</tipo>
+                </detalle>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Galletas</nombre>
+                <detalle>
+                    <cantidad>200g</cantidad>
+                    <tipo>Cereal</tipo>
+                </detalle>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Mantequilla</nombre>
+                <detalle>
+                    <cantidad>100g</cantidad>
+                    <tipo>Grasa</tipo>
+                </detalle>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">
+                <descripcion>Tritura las galletas y mezcla con la mantequilla derretida.</descripcion>
+                <tiempo>
+                    <minutos>10</minutos>
+                </tiempo>
+            </paso>
+            <paso numero="2">
+                <descripcion>Coloca la mezcla en el fondo del molde y presiona para formar la base.</descripcion>
+                <tiempo>
+                    <minutos>5</minutos>
+                </tiempo>
+            </paso>
+        </preparacion>
+    </receta>
+
+    <receta tipo="principal">
+        <nombre>Paella de Mariscos</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombre>Arroz</nombre>
+                <detalle>
+                    <cantidad>400g</cantidad>
+                    <tipo>Cereal</tipo>
+                </detalle>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Mejillones</nombre>
+                <detalle>
+                    <cantidad>200g</cantidad>
+                    <tipo>Marisco</tipo>
+                </detalle>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Gambas</nombre>
+                <detalle>
+                    <cantidad>200g</cantidad>
+                    <tipo>Marisco</tipo>
+                </detalle>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">
+                <descripcion>Sofríe el ajo y el pimiento rojo picados en una paellera.</descripcion>
+                <tiempo>
+                    <minutos>5</minutos>
+                </tiempo>
+            </paso>
+            <paso numero="2">
+                <descripcion>Añade el tomate triturado y cocina hasta que reduzca.</descripcion>
+                <tiempo>
+                    <minutos>10</minutos>
+                </tiempo>
+            </paso>
+        </preparacion>
+    </receta>
+</recetario>

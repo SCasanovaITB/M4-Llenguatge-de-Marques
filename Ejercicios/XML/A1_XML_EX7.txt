@@ -1,0 +1,21 @@
+<datos>
+    <persona>
+        <nombre>Pere Garcia</nombre>
+    </persona>
+    <perro>
+        <nombre>Rufy</nombre>
+    </perro>
+</datos>
+
+No es valido porque debe tener una unica etiqueta raiz que englobe todo el contenido.
+Para resolverlo he puesto un elemento raiz llamado datos.
+
+<persona>
+    <nombre>Pere</nombre>
+    <apellido> Pérez </apellido>
+    <apellido2>Garcia</apellido2>
+    <edad>22</edad>
+</persona>
+
+No es valido porque debe tener una sola etiqueta raiz y ademas esta mal estructurado el programa. 
+Para resolverlo he quitado una de las etiquetas, y su contenido, lo he añadido a la otra ya que eran la misma etqiueta con datos que se complementan.

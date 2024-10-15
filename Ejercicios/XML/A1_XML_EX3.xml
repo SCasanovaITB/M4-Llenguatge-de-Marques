@@ -1,0 +1,15 @@
+<Empresa>
+    <Empleado NumEMpleado="1234567890">
+        <Apellido>Perez</Apellido>
+        <Nombre>Juan</Nombre>
+        <Email>juanperez@gmail.com</Email>
+        <Telefono>666 555 444</Telefono>
+        <Direccion>
+            <Calle>Carrer de Pau Claris, 121</Calle>
+            <Ciudad CP="08009">Barcelona</Ciudad>
+        </Direccion>
+    </Empleado>
+</Empresa>
+
+<!-- Si que podrian ser atributos de Calle porque son datos con propiedades de Direccion. Aparte, simplificarian la estructura. 
+ Eso si, si ciudad pasara a ser atributo de Direccion, CP dejaria de ser atributo de ciudad y pasaria a ser tambien atributo de Direccion. -->
