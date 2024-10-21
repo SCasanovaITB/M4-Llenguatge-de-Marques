@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,29 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>exercici4</title>
     <style>
-        table {
-            border-collapse: separate; /* Separar bordes para mostrar mejor el espaciado */
-            border: 1.5px double black; /* Doble borde para la tabla */
-            margin-bottom: 20px; /* Espacio entre tablas */
-            margin: 10px; /* Espaciado alrededor de la tabla */
+        table, th, td{
+           border: 1px solid black;
         }
-        th, td {
-            border: 1.5px double black; /* Borde doble para las celdas */
-            padding: 12px; /* Espaciado interno de las celdas */
-            text-align: center; /* Centrar texto en celdas */
-        }
-        .small-table {
-            width: 30%; 
-        }
-        .large-table {
-            width: 70%;
+        .large-table{
+            width: 150px;
+            height: 110px;
+            text-align: center;
         }
         .checkmark {
             color: green;
-            font-size: 24px;
+            font-size: 50px;
         }
         th {
-            font-weight: bold; /* Aplica negrita a todas las celdas de encabezado */
+            font-weight: bold; 
         }
     </style>
 </head>
@@ -43,7 +35,7 @@
             <td>555 77 855</td>
         </tr>
     </table>
-
+    <br>
     <table>
         <tr>
             <td><strong>First Name:</strong></td>
@@ -57,11 +49,11 @@
             <td>555 77 855</td>
         </tr>
     </table>
-
+    <br>
     <table>
         <tr>
             <td>
-                <table class="small-table">
+                <table>
                     <tr>
                         <td>First</td>
                         <td>Row</td>
@@ -90,3 +82,4 @@
     </table>
 </body>
 </html>
+
