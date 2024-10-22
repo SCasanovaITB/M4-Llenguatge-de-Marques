@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.silver {
+    background-color: silver;
+    padding: 10px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
