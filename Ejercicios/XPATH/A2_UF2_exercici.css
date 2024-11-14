@@ -1,0 +1,39 @@
+/* Estilo para todo el documento */
+employee {
+    display: block;
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif; /* Cambia la fuente a Times New Roman o similar */
+}
+
+/* Estilo para el nombre */
+name {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Estilo para el departamento */
+department {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Estilo para los módulos */
+modules {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+module {
+    margin: 0 5px;
+}
+

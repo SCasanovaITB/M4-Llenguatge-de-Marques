@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./A2_UF2_exercici.css"?>
+<employee>
+    <name>Meritxell Durany</name>
+    <department>Dept. Informàtica</department>
+    <modules>
+        <module>M04,</module>
+        <module>M2,</module>
+        <module>M8,</module>
+    </modules>
+</employee>
